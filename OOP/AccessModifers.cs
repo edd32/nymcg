@@ -11,8 +11,8 @@ public class AccessibilityClass
 
 public class BaseClass
 {
-    private int _privateField = 42;
-    protected int _protectedField = 42;
+    private int _privateField = 40;
+    protected int _protectedField = 40;
 
     private void MyPrivateMethod() { }
     protected void MyProtectedMethod() { }
@@ -24,7 +24,6 @@ public class DerivedClass : BaseClass
     {
         // _privateField = 41; // Not OK, this will generate a compile error
         _protectedField = 43; // OK, protected fields can be accessed
-
 
         // MyPrivateMethod(); // Not OK, this will generate a compile error
         MyProtectedMethod(); // OK, protected methods can be accessed
