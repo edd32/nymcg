@@ -14,4 +14,17 @@
 3. [What is Object Oriented Design](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 4. [A Pragmatic Quick Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/)
 5. [SOLID](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+6. [Contravariance vs Covarience](http://tomasp.net/blog/variance-explained.aspx/)
+
+## Notes
+
+Covarience and contravariance 
+Class is a construct by grouping together variables of other types, methods, and events. Definites a date and behavior of a type.
+Hermetically Sealed 
+Dynamic polymorphism and static polymorphism
+Assembly is like an executable or library
+Entrypoint / ildasm for disassembly 
+Autoproperties 
+
+
 

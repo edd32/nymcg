@@ -30,6 +30,7 @@ Pull requests are welcomed.
 ## Advanced
 
 1. [What Great .NET Developers Ought to Know](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx)
+2. [ECMA Standard](http://www.ecma-international.org/publications/standards/Ecma-334.htm)
 
 ## Azure
 
