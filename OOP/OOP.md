@@ -16,6 +16,10 @@
 5. [SOLID](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 6. [Contravariance vs Covarience](http://tomasp.net/blog/variance-explained.aspx/)
 
+## Videos
+
+1. [Computer programming: What is object-oriented language?](https://www.youtube.com/watch?v=SS-9y0H3Si8)
+
 ## Notes
 
 Covarience and contravariance 
