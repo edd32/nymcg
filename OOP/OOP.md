@@ -22,13 +22,13 @@
 
 ## Notes
 
-Covarience and contravariance 
-Class is a construct by grouping together variables of other types, methods, and events. Definites a date and behavior of a type.
-Hermetically Sealed 
-Dynamic polymorphism and static polymorphism
-Assembly is like an executable or library
-Entrypoint / ildasm for disassembly 
-Autoproperties 
+* Covarience and contravariance 
+* Class is a construct by grouping together variables of other types, methods, and events. Definites a date and behavior of a type.
+* Hermetically Sealed 
+* Dynamic polymorphism and static polymorphism
+* Assembly is like an executable or library
+* Entrypoint / ildasm for disassembly 
+* Autoproperties 
 
 
 
