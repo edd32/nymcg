@@ -41,3 +41,6 @@ Pull requests are welcomed.
 1. [Azure in Plain English] (https://www.expeditedssl.com/azure-in-plain-english?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured) - A list of Azure vs AWS services
 2. [$300 Credit for Azure] (https://blogs.msdn.microsoft.com/visualstudio/2016/02/03/free-visual-studio-dev-essentials-program-feb-2016/) - Free stuff for engineers!
 
+## Slack Chat
+
+1. [NY Microsoft Certification Group Chat](http://nymicrosoft.azurewebsites.net)
