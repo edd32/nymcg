@@ -3,7 +3,7 @@ A Community Sourced List of C# Learning Resources
 
 Pull requests are welcomed.
 
-[![Slack](https://lh3.googleusercontent.com/apGWfZXbxUK1iz15gFj8MOanjm1iTZIUf0THWKY3kjwJfsTYG4lnHyzTuJ8Igynp5HtIvGz4=s50-h50-e365)](http://nymicrosoft.azurewebsites.net)
+[![Slack](https://maxcdn.icons8.com/Color/PNG/48/Mobile/slack-48.png)](http://nymicrosoft.azurewebsites.net) Slack Chat
 
 ## Learning How to Learn
 
