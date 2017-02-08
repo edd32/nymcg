@@ -27,6 +27,10 @@ Pull requests are welcomed.
 1. [Delegates and Lambdas](https://github.com/lukewickstead/DOT-NET-on-Linux/blob/master/CheatSheets/DelegatesToLambda.cs)
 2. [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
 
+## Videos
+
+1. [Exam Prep: 70-483](https://www.youtube.com/watch?v=Ii6ucNLdtC4)
+
 ## Advanced
 
 1. [What Great .NET Developers Ought to Know](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx)
