@@ -9,6 +9,8 @@
 enum Days : byte { Sat = 1, Sun, Mon, Tue, Wed, Thu, Fri };
 ```
 
+### Struct 
+
 ```
 
 public struct Point 
@@ -23,6 +25,8 @@ public struct Point
 
 ```
 
+### ICollection
+
 ```
 class Note {}
 
@@ -31,6 +35,7 @@ class Notes {
 }
 
 ```
+### Generic
 
 ```
 
@@ -40,6 +45,9 @@ public void Generic<T>()
 }
 
 ```
+
+## Notes
+1. [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
 
 ## Notes from the Book
 
@@ -51,7 +59,6 @@ Decide on the visibility of your method.”
 
 Excerpt From: Wouter de Kort. “Exam Ref 70-483.” iBooks. https://itun.es/us/G3mNY.l
 
-[Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
 
 “The constructor also runs some code to make sure that the object is in a usable state. Some good practices when designing your constructors are these:
 Explicitly declare the public default construct in classes if such a constructor is required.
