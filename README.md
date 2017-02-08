@@ -43,4 +43,4 @@ Pull requests are welcomed.
 
 ## Slack Chat
 
-1. [NY Microsoft Certification Group Chat](http://nymicrosoft.azurewebsites.net)
+1. [![Slack](https://lh3.googleusercontent.com/apGWfZXbxUK1iz15gFj8MOanjm1iTZIUf0THWKY3kjwJfsTYG4lnHyzTuJ8Igynp5HtIvGz4=s50-h50-e365)](http://nymicrosoft.azurewebsites.net) - Slack Group Chat
