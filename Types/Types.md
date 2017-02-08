@@ -1,7 +1,16 @@
 # Topic Questions for Types
 
 1. When are enums useful?
+2. What are types?
+3. What is boxing/unboxing?
+4. What's the difference between static and dynamic?
+5. What's an ExpandoObject?
 
+
+# Videos
+
+1. [Generics](https://www.lynda.com/C-tutorials/Understanding-benefits-generics/388134/435153-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aC%23+generics%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+2. [Code Challenge](https://www.lynda.com/C-tutorials/Challenge-Getting-information-from-list/388134/435157-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aC%23+generics%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
 ## Examples
 
