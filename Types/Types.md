@@ -15,7 +15,7 @@
 ## Examples
 
 ```
-enum Days : byte { Sat = 1, Sun, Mon, Tue, Wed, Thu, Fri };
+enum DaysofWeek : byte { Sat = 1, Sun, Mon, Tue, Wed, Thu, Fri };
 ```
 
 ### Struct 
