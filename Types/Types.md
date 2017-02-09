@@ -17,6 +17,19 @@
 ```
 enum DaysofWeek : byte { Sat = 1, Sun, Mon, Tue, Wed, Thu, Fri };
 ```
+## Implicit vs Explicit Conversions
+
+```
+int i = 234;
+double x = i;
+
+
+double y = 123.3;
+int w;
+int z = (int)y;
+
+```
+
 
 ### Struct 
 
