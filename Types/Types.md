@@ -26,7 +26,7 @@ double x = i;
 
 double y = 123.3;
 int w;
-int z = (int)y;
+w = (int)y;
 
 ```
 
