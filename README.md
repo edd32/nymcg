@@ -31,6 +31,10 @@ Pull requests are welcomed.
 
 ## Exam Prep
 
+1. [Preparation Tools and Resources](https://borntolearn.mslearn.net/certification/p/wiki?es=storeAppC&ec=483)
+
+## Exam Prep Videos
+
 1. [Exam Prep: 70-483](https://www.youtube.com/watch?v=Ii6ucNLdtC4)
 2. [Exam Prep Session for Exam 70-483: Programming in C#](https://channel9.msdn.com/Events/Ignite/2015/BRK3900)
 
