@@ -29,9 +29,10 @@ Pull requests are welcomed.
 1. [Delegates and Lambdas](https://github.com/lukewickstead/DOT-NET-on-Linux/blob/master/CheatSheets/DelegatesToLambda.cs)
 2. [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
 
-## Videos
+## Exam Prep
 
 1. [Exam Prep: 70-483](https://www.youtube.com/watch?v=Ii6ucNLdtC4)
+2. [Exam Prep Session for Exam 70-483: Programming in C#](https://channel9.msdn.com/Events/Ignite/2015/BRK3900)
 
 ## Advanced
 
