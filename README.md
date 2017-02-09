@@ -32,6 +32,7 @@ Pull requests are welcomed.
 ## Exam Prep
 
 1. [Preparation Tools and Resources](https://borntolearn.mslearn.net/certification/p/wiki?es=storeAppC&ec=483)
+2. [Learning Path: Programming C# (Microsoft Exam 70-483)](https://www.pluralsight.com/blog/software-development/learning-path-c-microsoft-exam-70-483)
 
 ## Exam Prep Videos
 
