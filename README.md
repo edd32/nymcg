@@ -44,7 +44,8 @@ Pull requests are welcomed.
 ## Advanced
 
 1. [What Great .NET Developers Ought to Know](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx)
-2. [ECMA Standard](http://www.ecma-international.org/publications/standards/Ecma-334.htm)
+2. [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
+3. [ECMA Standard](http://www.ecma-international.org/publications/standards/Ecma-334.htm)
 
 ## Azure
 
