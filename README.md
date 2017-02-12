@@ -52,6 +52,10 @@ Pull requests are welcomed.
 2. [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
 3. [ECMA Standard](http://www.ecma-international.org/publications/standards/Ecma-334.htm)
 
+## Tools
+
+1. [LINQ Pad](http://www.linqpad.net)
+
 ## Azure
 
 1. [Azure in Plain English] (https://www.expeditedssl.com/azure-in-plain-english?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured) - A list of Azure vs AWS services
