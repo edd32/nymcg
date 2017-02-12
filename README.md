@@ -35,6 +35,7 @@ Pull requests are welcomed.
 2. [Learning Path: Programming C# (Microsoft Exam 70-483)](https://www.pluralsight.com/blog/software-development/learning-path-c-microsoft-exam-70-483)
 3. [Are you certifiable?](https://www.microsoft.com/click/areyoucertifiable/)
 4. [Hidden Features of C#](http://stackoverflow.com/questions/9033/hidden-features-of-c)
+5. [Microsoft C# Exam 70-483 Preparation Guide](http://www.jameswiseman.com/blog/2013/09/12/studying-for-c-70-483/)
 
 ## Exam Prep Videos
 
