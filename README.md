@@ -16,6 +16,7 @@ Pull requests are welcomed.
 1. [Up and Running with C#](https://www.lynda.com/C-tutorials/Up-Running-C/164452-2.html) - Lynda.com
 2. [C# Fundamentals with C# 5.0](https://www.pluralsight.com/courses/csharp-fundamentals-csharp5) - Pluralsight
 3. [A comprehensive list of 100+ courses to learn C# online - How to Code .NET](http://bafflednerd.com/learn-csharp-online/)
+4. [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949)
 
 ## Books
 
