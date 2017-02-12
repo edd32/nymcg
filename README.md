@@ -36,6 +36,7 @@ Pull requests are welcomed.
 3. [Are you certifiable?](https://www.microsoft.com/click/areyoucertifiable/)
 4. [Hidden Features of C#](http://stackoverflow.com/questions/9033/hidden-features-of-c)
 5. [Microsoft C# Exam 70-483 Preparation Guide](http://www.jameswiseman.com/blog/2013/09/12/studying-for-c-70-483/)
+6. [Why Brain Dumps are Bad](https://borntolearn.mslearn.net/b/weblog/posts/why-brain-dumps-are-bad#fbid=xFEFOB5oT6O)
 
 ## Exam Prep Videos
 
