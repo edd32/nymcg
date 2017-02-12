@@ -14,7 +14,7 @@ Pull requests are welcomed.
 ## Courses
 
 1. [Up and Running with C#](https://www.lynda.com/C-tutorials/Up-Running-C/164452-2.html) - Lynda.com
-2. [C# Fundamentals with C# 5.0](https://www.pluralsight.com/courses/csharp-fundamentals-csharp5) - [Free three month membership via Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/?campaign=VSBlog_AzureXamAnnoucement_VSDE)
+2. [C# Fundamentals with C# 5.0](https://www.pluralsight.com/courses/csharp-fundamentals-csharp5) - Pluralsight
 
 ## Books
 
