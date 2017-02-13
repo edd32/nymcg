@@ -47,6 +47,10 @@ Pull requests are welcomed.
 1. [Exam Prep: 70-483](https://www.youtube.com/watch?v=Ii6ucNLdtC4)
 2. [Exam Prep Session for Exam 70-483: Programming in C#](https://channel9.msdn.com/Events/Ignite/2015/BRK3900)
 
+## Quizes
+
+1. [Multi-threading](http://quizbucket.org/csharp/multi-threading)
+
 ## Advanced
 
 1. [What Great .NET Developers Ought to Know](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx)
